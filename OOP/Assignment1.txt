@@ -1,0 +1,26 @@
+Question 1:
+Write a program that defines a shape class with setters and getters that set and get the values to width and height variable. Then define two sub-classes triangle and rectangle, that calculate the area of these shapes area (). In the main, define two variables a triangle and a rectangle and then call the area() function in this two varibles.
+
+Question 2:
+Write a program that would print the information (name, year of joining, salary, address) of three employees by creating a class named 'Employee'. The output should be as follows:
+Name        Year of joining        Address
+Robert        1994            64C- WallsStreat
+Sam           2000            68D- WallsStreat
+John          1999            26B- WallsStreat
+
+use setters getters of all variables and print() function to print the details of an employee.
+
+Question 3:
+Amanda and Tyler opened a business that specializes in shipping liquids, 
+such as milk, juice, and water, in cylindrical containers. The shipping 
+charges depend on the amount of the liquid in the container. (For simplicity, you may assume that the container is filled to the top.) They also provide 
+the option to paint the outside of the container for a reasonable amount. 
+Write a program that does the following:
+a. Prompts the user to input the dimensions (in feet) of the container 
+(radius of the base and the height).
+b. Prompts the user to input the shipping cost per liter.
+c. Prompts the user to input the paint cost per square foot. (Assume that the 
+entire container including the top and bottom needs to be painted.)
+d. Separately outputs the shipping cost and the cost of painting. Your program must use the class cylinderType (designed in Programming 
+Exercise 3) to store the radius of the base and the height of the container. (Note that 1 cubic feet 5 28.32 liters or 1 liter 5 0.353146667 
+cubic feet.) 
